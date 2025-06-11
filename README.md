@@ -67,9 +67,8 @@ Senior Full Stack Developer and Certified Magento Developer specializing in buil
 - **Code Quality** - Clean, maintainable code practices
 
 ## 📫 Let's Connect
-- 💼 **LinkedIn:** [linkedin.com/in/kailashmishra](https://linkedin.com/in/kailashmishra)
-- 📧 **Email:** your.email@example.com
-- 🌐 **Portfolio:** yourportfolio.com
+- 💼 **LinkedIn:** [kailashmishra](https://www.linkedin.com/in/kailash-mishra-80abb120b/)
+- 📧 **Email:** mishrakailash120@gmail.com
 - 💬 **Open to:** Freelance projects, collaborations, and full-time opportunities
 
 ## 🎯 Professional Focus
