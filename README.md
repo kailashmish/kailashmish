@@ -66,10 +66,6 @@ Senior Full Stack Developer and Certified Magento Developer specializing in buil
 - **Responsive Design** - Mobile-first approach
 - **Code Quality** - Clean, maintainable code practices
 
-## 📊 GitHub Statistics
-![Kailash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kailashmishra&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kai
 
 ## 📫 Let's Connect
 - 💼 **LinkedIn:** [kailashmishra](https://www.linkedin.com/in/kailash-mishra-80abb120b/)
