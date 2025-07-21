@@ -65,6 +65,9 @@ Senior Full Stack Developer and Certified Magento Developer specializing in buil
 - **Performance Optimization** - Fast, scalable applications
 - **Responsive Design** - Mobile-first approach
 - **Code Quality** - Clean, maintainable code practices
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kailashmish&theme=dark&hide_border=false)
+
 
 ## 🔥 GitHub Streak Stats
 ![kailashmish's Stats](https://github-readme-stats.vercel.app/api?username=kailashmish&theme=radical&show_icons=true&hide_border=true&count_private=true)
