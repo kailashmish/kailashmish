@@ -66,6 +66,9 @@ Senior Full Stack Developer and Certified Magento Developer specializing in buil
 - **Responsive Design** - Mobile-first approach
 - **Code Quality** - Clean, maintainable code practices
 
+![GitHub Streak](https://streak-stats.demolab.com?user=kailashmish&theme=dark&hide_border=false)
+
+
 
 ## 📫 Let's Connect
 - 💼 **LinkedIn:** [kailashmishra](https://www.linkedin.com/in/kailash-mishra-80abb120b/)
