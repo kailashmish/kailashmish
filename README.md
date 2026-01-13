@@ -55,6 +55,30 @@ Senior Full Stack Developer and Certified Magento Developer specializing in buil
 - Creating a Node.js microservices architecture for scalable web applications
 - Working on Laravel-based CRM system with React.js frontend
 
+Here’s a **clean, very short, and high-impact version** 👇
+Perfect for **GitHub profile / resume summary / LinkedIn projects**.
+
+---
+
+## Recent Projects
+**Rocaro – Fashion E-Commerce Marketplace**
+* Built customer & seller mobile apps using **React Native + Expo**
+* Implemented payments (Razorpay), shipping (ShipRocket), social features, and OAuth/OTP auth
+* Backend APIs & admin panel built with **Laravel + Nova**
+  **Tech:** React Native, TypeScript, Laravel, MySQL
+
+**Meezi – AI Travel Itinerary Planner**
+* Developed AI-powered travel planning app using **OpenAI + Supabase Edge Functions**
+* Built budget tracking, expense management, GPS tracking, and Google Maps integration
+* Secured APIs using server-side key management and RLS
+  **Tech:** React Native, TypeScript, Supabase, OpenAI, Google Maps
+
+**Enterprise MLM & Subscription Platform**
+* Built large-scale MLM system with subscriptions, commissions, payouts, and reporting
+* Integrated **Stripe & PayPal**, automated commissions, and multi-level genealogy
+* Deployed with **Docker, Nginx, Redis**, achieving 99.9% uptime
+  **Tech:** Laravel, Node.js, Python, React, MySQL, Docker
+
 
 ## 🌟 Core Competencies
 - **Full Stack Development** - End-to-end application development
