@@ -1,103 +1,129 @@
 # Kailash Mishra - Senior Full Stack Developer
-
 ## 👨‍💻 About Me
-Senior Full Stack Developer and Certified Magento Developer specializing in building scalable web and mobile applications. I work across the entire development stack, creating robust e-commerce solutions and modern applications using cutting-edge technologies.
+Senior Full Stack Developer and Certified Magento Developer specializing in scalable web and mobile applications. I build end-to-end solutions across the full development stack, from AI-powered platforms to enterprise e-commerce systems.
+
+
 
 ## 🚀 Technical Expertise
 
 ### Frontend Development
-- **React.js** - Building dynamic, responsive web applications
-- **JavaScript (ES6+)** - Modern JavaScript development
-- **HTML5 & CSS3** - Semantic markup and modern styling
-- **Tailwind CSS** - Utility-first CSS framework for rapid UI development
+- **React.js & React 19** - Modern web applications with advanced patterns
+- **TypeScript** - Type-safe development for robust applications
+- **TailwindCSS & shadcn/ui** - Component-driven UI development
+- **TanStack Router & Query** - Advanced routing and data fetching
+- **HTML5 & CSS3** - Semantic markup and responsive design
 
 ### Backend Development
-- **Node.js** - Server-side JavaScript development
-- **Laravel** - PHP framework for web applications
-- **PHP** - Server-side scripting and web development
-- **MySQL** - Database design and management
+- **Bun.js & Node.js** - High-performance server-side development
+- **Laravel & PHP** - Enterprise web application frameworks
+- **Prisma ORM** - Type-safe database management
+- **RESTful APIs** - Scalable API architecture with Zod validation
 
 ### Mobile Development
-- **React Native** - Cross-platform mobile app development for iOS and Android
+- **React Native & Expo** - Cross-platform iOS and Android applications
+- **TypeScript** - Type-safe mobile development
+
+### Database & Infrastructure
+- **PostgreSQL & MySQL** - Advanced database design and optimization
+- **Redis** - Caching and session management
+- **Docker** - Containerization and deployment
+- **Nginx** - Web server configuration and load balancing
+
+### AI & Integration
+- **OpenAI API & LangChain** - AI-powered features and intelligent automation
+- **Twilio & SendGrid** - Multi-channel communication platforms
+- **Stripe & PayPal** - Payment processing and subscription management
+- **Google Maps API** - Location-based services
 
 ### E-commerce Specialization
-- **Magento 2 (Certified)** - Custom module development and theme creation
-- **Custom Extensions** - Building tailored e-commerce solutions
-- **Third-party Integrations** - Payment gateways, shipping providers, APIs
+- **Magento 2 (Certified)** - Custom module development and theming
+- **Payment Gateways** - Razorpay, Stripe, PayPal integration
+- **Shipping APIs** - ShipRocket and logistics integrations
 
-### DevOps & Tools
-- **Docker** - Containerization and deployment
-- **Git** - Version control and collaboration
-- **API Development** - RESTful services and integrations
-- **Responsive Design** - Mobile-first development approach
 
-## 💼 What I Build
+## 💼 Recent Projects
 
-### Web Applications
-- Full-stack web applications using React.js and Node.js
-- Laravel-based web solutions with modern architecture
-- Responsive, mobile-first user interfaces
+### 🔗 Ezer Engage – Multi-Tenant Customer Engagement Platform
+**Role:** Full-Stack Engineer
 
-### Mobile Applications
-- Cross-platform mobile apps with React Native
-- Native-like performance and user experience
-- iOS and Android deployment
+Built a comprehensive SaaS platform for managing customer communications across 5 channels (WhatsApp, SMS, Email, Facebook Messenger, Chat Widget)
 
-### E-commerce Solutions
-- Custom Magento 2 modules and extensions
-- Complete e-commerce platform development
-- Payment gateway and shipping integrations
-- Performance optimization and scaling
+**Key Achievements:**
+- Architected multi-tenant system with RBAC (SUPER_ADMIN, ADMIN, USER) serving multiple organizations
+- Integrated **5 communication channels** using Twilio and SendGrid APIs with real-time messaging and webhook handling
+- Implemented **AI-powered conversation routing** using OpenAI and LangChain for intelligent chat assignment and automated responses
+- Built **Stripe subscription management** with automated billing cycles and customer portal
+- Developed embeddable **real-time chat widget** with anonymous authentication and session management
+- Designed scalable **database schema** with soft-delete patterns, audit logging, and optimized multi-tenant queries
+- Established **type-safe architecture** throughout the stack using TypeScript, Zod schemas, and Prisma ORM
+- Implemented comprehensive **testing suite** with Bun test and Testing Library for components, APIs, and integration scenarios
+- Set up **CI/CD pipelines** with Docker for automated builds and production deployment
 
-## 🛠️ Current Projects
-- Building a comprehensive e-commerce platform with Magento 2
-- Developing a React Native mobile application for inventory management
-- Creating a Node.js microservices architecture for scalable web applications
-- Working on Laravel-based CRM system with React.js frontend
+**Tech Stack:** Bun.js, React 19, TypeScript, TanStack Router, TanStack Query, Prisma ORM, PostgreSQL, Twilio, SendGrid, Stripe, OpenAI, LangChain, shadcn/ui, Tailwind CSS, React Hook Form, Zod, Docker, Redis, JWT
 
-Here’s a **clean, very short, and high-impact version** 👇
-Perfect for **GitHub profile / resume summary / LinkedIn projects**.
 
----
+### 🛍️ Rocaro – Fashion E-Commerce Marketplace
+Built a dual-sided marketplace connecting fashion buyers and sellers through mobile apps
 
-## Recent Projects
-**Rocaro – Fashion E-Commerce Marketplace**
-* Built customer & seller mobile apps using **React Native + Expo**
-* Implemented payments (Razorpay), shipping (ShipRocket), social features, and OAuth/OTP auth
-* Backend APIs & admin panel built with **Laravel + Nova**
-  **Tech:** React Native, TypeScript, Laravel, MySQL
+**Key Achievements:**
+- Developed **customer and seller mobile apps** using React Native + Expo with native-like performance
+- Integrated **payment processing** (Razorpay) and **shipping logistics** (ShipRocket) with real-time tracking
+- Implemented **social features** including product reviews, wishlists, and seller profiles
+- Built **OAuth and OTP authentication** system for secure user management
+- Developed **secure backend APIs** and comprehensive admin panel using Laravel + Nova
+- Implemented **real-time notifications** for orders, shipping updates, and seller activities
 
-**Meezi – AI Travel Itinerary Planner**
-* Developed AI-powered travel planning app using **OpenAI + Supabase Edge Functions**
-* Built budget tracking, expense management, GPS tracking, and Google Maps integration
-* Secured APIs using server-side key management and RLS
-  **Tech:** React Native, TypeScript, Supabase, OpenAI, Google Maps
+**Tech Stack:** React Native, Expo, TypeScript, Laravel, Laravel Nova, MySQL, Razorpay, ShipRocket
 
-**Enterprise MLM & Subscription Platform**
-* Built large-scale MLM system with subscriptions, commissions, payouts, and reporting
-* Integrated **Stripe & PayPal**, automated commissions, and multi-level genealogy
-* Deployed with **Docker, Nginx, Redis**, achieving 99.9% uptime
-  **Tech:** Laravel, Node.js, Python, React, MySQL, Docker
+
+### ✈️ Meezi – AI-Powered Travel Itinerary Planner
+Created an intelligent travel planning app that generates personalized itineraries using AI
+
+**Key Achievements:**
+- Built **AI-powered itinerary generation** using OpenAI API and Supabase Edge Functions
+- Developed **budget tracking and expense management** with multi-currency support
+- Integrated **GPS tracking** and **Google Maps** for location-based recommendations
+- Implemented **server-side API key management** and Row Level Security (RLS) for data protection
+- Created **offline-first architecture** for itinerary access without internet
+- Built **collaborative trip planning** features for group travel
+
+**Tech Stack:** React Native, TypeScript, Supabase, Supabase Edge Functions, OpenAI API, Google Maps API, PostgreSQL
+
+
+### 🧩 Enterprise MLM & Subscription Platform
+Developed a large-scale multi-level marketing system with automated commission management
+
+**Key Achievements:**
+- Built **scalable MLM system** handling complex genealogy logic and multi-level commission structures
+- Implemented **dual payment gateway integration** (Stripe & PayPal) with automated payout processing
+- Developed **automated commission calculation engine** with configurable rules and bonus structures
+- Created **comprehensive analytics dashboard** with real-time reporting and genealogy visualization
+- Architected **microservices backend** using Node.js and Python for scalable performance
+- Deployed with **Docker containerization**, achieving **99.9% uptime** using Nginx and Redis
+- Built **subscription management** with automated renewals and grace period handling
+
+**Tech Stack:** Laravel, Node.js, Python, React, MySQL, Docker, Nginx, Redis, Stripe, PayPal
 
 
 ## 🌟 Core Competencies
-- **Full Stack Development** - End-to-end application development
-- **Mobile Development** - Cross-platform mobile solutions
-- **E-commerce Development** - Scalable online store solutions
-- **API Integration** - Third-party service integrations
-- **Database Design** - Efficient data architecture
-- **Performance Optimization** - Fast, scalable applications
-- **Responsive Design** - Mobile-first approach
-- **Code Quality** - Clean, maintainable code practices
-
-
+- **Full Stack Development** - End-to-end application architecture and implementation
+- **Mobile Development** - Cross-platform iOS and Android solutions
+- **AI Integration** - OpenAI and LangChain implementation
+- **E-commerce Solutions** - Scalable marketplace and payment systems
+- **Multi-Tenant SaaS** - Scalable platform architecture with tenant isolation
+- **API Development** - RESTful services with type-safe validation
+- **Database Design** - Optimized schemas and query performance
+- **DevOps** - Docker, CI/CD, and production deployment
+- **Performance Optimization** - Caching strategies and load balancing
+- **Security** - Authentication, authorization, and data protection
 
 
 ## 📫 Let's Connect
-- 💼 **LinkedIn:** [kailashmishra](https://www.linkedin.com/in/kailash-mishra-80abb120b/)
+- 💼 **LinkedIn:** [kailashmishra](https://www.linkedin.com/in/kailashmishra)
 - 📧 **Email:** mishrakailash120@gmail.com
-- 💬 **Open to:** Freelance projects, collaborations, and full-time opportunities
+- 💬 **Open to:** Freelance projects, technical collaborations, and full-time opportunities
+
 
 ## 🎯 Professional Focus
-Building modern, scalable applications that solve real-world problems. Passionate about clean code, user experience, and staying current with the latest technologies in web and mobile development.
+Building production-ready, scalable applications that solve complex business problems. Specialized in AI-powered platforms, multi-tenant SaaS solutions, and enterprise e-commerce systems. Passionate about clean architecture, type safety, and delivering exceptional user experiences with modern technology stacks.
 
